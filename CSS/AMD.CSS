@@ -70,12 +70,9 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-    transition: 0, 6s;
 }
 
-.img-amd-center :hover {
-    transform: scale(1.1);
-}
+
 
 .img-amd-center img {
     width: 250px;
